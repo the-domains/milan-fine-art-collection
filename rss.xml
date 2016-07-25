@@ -8,6 +8,13 @@
         <atom:link href="https://thegrid.ai/milan-fine-art-collection/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd3ae4d5-8628-442a-8e6d-cceca7fa9e76.jpg">]]></description>
+            <link>https://thegrid.ai/milan-fine-art-collection/133fb7d4-c703-46aa-b21e-e6ea33590d57/index.html</link>
+            <guid isPermaLink="false">133fb7d4-c703-46aa-b21e-e6ea33590d57</guid>
+            <pubDate>Mon, 25 Jul 2016 06:44:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59fe3815-f5bf-4f8e-9ae2-954a4c7bd3b5.jpg">]]></description>
             <link>https://thegrid.ai/milan-fine-art-collection/71372749-1630-4b94-8ee4-c20ca4e356a5/index.html</link>
             <guid isPermaLink="false">71372749-1630-4b94-8ee4-c20ca4e356a5</guid>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/milan-fine-art-collection/5948e093-6d2c-4ce2-85eb-fdaba1e50bd3/index.html</link>
             <guid isPermaLink="false">5948e093-6d2c-4ce2-85eb-fdaba1e50bd3</guid>
             <pubDate>Mon, 25 Jul 2016 06:43:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6cd77db-b964-4230-b323-ed32c46aa7ed.jpg">]]></description>
-            <link>https://thegrid.ai/milan-fine-art-collection/6b3cac13-e1d1-41ce-9544-865be6e92d46/index.html</link>
-            <guid isPermaLink="false">6b3cac13-e1d1-41ce-9544-865be6e92d46</guid>
-            <pubDate>Mon, 25 Jul 2016 06:43:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
