@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.7674544
 color:
-  saturation: 0.9505052901804447
-  brandStrength: 0.5787233712617308
-  lightness: 0.4824135380331427
+  saturation: 0.7953813
+  brandStrength: 1
+  lightness: 0.3313641
   brandColors:
-    - '#225378'
-    - '#1695A3'
-    - '#ACF0F2'
-    - '#F3FFE2'
-    - '#EB7F00'
-  rhythmicContrast: 0.6565139633603394
-typography_spectrum: 0.5784543862100691
-layout_spectrum: 0.7543841041624546
+    - '#0B0601'
+    - '#C8A472'
+    - '#CFCDB4'
+    - '#A9864F'
+    - '#5D3C10'
+  rhythmicContrast: 0.656514
+layout_spectrum: 0.06283564
 name: Milan Fine Art Collection
