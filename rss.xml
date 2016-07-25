@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Milan Fine Art Collection]]></title>
         <description><![CDATA[Milan Fine Art Collection]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/milan-fine-art-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 06:43:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jul 2016 06:43:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/milan-fine-art-collection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf8c6f19-a15f-496d-8603-5a94da43f600.jpg">]]></description>
+            <link>https://thegrid.ai/milan-fine-art-collection/5948e093-6d2c-4ce2-85eb-fdaba1e50bd3/index.html</link>
+            <guid isPermaLink="false">5948e093-6d2c-4ce2-85eb-fdaba1e50bd3</guid>
+            <pubDate>Mon, 25 Jul 2016 06:43:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6cd77db-b964-4230-b323-ed32c46aa7ed.jpg">]]></description>
-            <link>undefined6b3cac13-e1d1-41ce-9544-865be6e92d46/index.html</link>
+            <link>https://thegrid.ai/milan-fine-art-collection/6b3cac13-e1d1-41ce-9544-865be6e92d46/index.html</link>
             <guid isPermaLink="false">6b3cac13-e1d1-41ce-9544-865be6e92d46</guid>
             <pubDate>Mon, 25 Jul 2016 06:43:37 GMT</pubDate>
         </item>
