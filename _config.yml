@@ -11,16 +11,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.1928034
-  brandStrength: 0.9887217
-  lightness: 0.5902256
+  saturation: 0.9505052901804447
+  brandStrength: 0.5787233712617308
+  lightness: 0.4824135380331427
   brandColors:
-    - '#F0F0E8'
-    - '#525252'
-    - '#272121'
-    - '#94846A'
-    - '#9FAFBF'
-  rhythmicContrast: 0.5204082
-typography_spectrum: 0.9425349
-layout_spectrum: 0.2518797
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+  rhythmicContrast: 0.6565139633603394
+typography_spectrum: 0.5784543862100691
+layout_spectrum: 0.7543841041624546
 name: Milan Fine Art Collection
