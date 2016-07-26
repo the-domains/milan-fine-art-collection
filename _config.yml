@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.7674544
+typography_spectrum: 0.038394676987081766
 color:
-  saturation: 0.7953813
-  brandStrength: 1
-  lightness: 0.3313641
+  saturation: 0.9888697965070605
+  brandStrength: 0.3420200301334262
+  lightness: 0.45984611054882407
   brandColors:
-    - '#0B0601'
-    - '#C8A472'
-    - '#CFCDB4'
-    - '#A9864F'
-    - '#5D3C10'
-  rhythmicContrast: 0.656514
-layout_spectrum: 0.06283564
+    - '#6C6E58'
+    - '#3E423A'
+    - '#417378'
+    - '#A4CFBE'
+    - '#F4F7D9'
+  rhythmicContrast: 0.2918544171843678
+layout_spectrum: 0.5460944413207471
 name: Milan Fine Art Collection
