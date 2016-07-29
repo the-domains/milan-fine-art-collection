@@ -4,8 +4,15 @@
         <description><![CDATA[Timeless Originals]]></description>
         <link>https://thegrid.ai/milan-fine-art-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 16:35:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 16:35:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/milan-fine-art-collection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/93259ef8-d143-4a85-8080-861348099dd1.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/93259ef8-d143-4a85-8080-861348099dd1.jpg</link>
+            <guid isPermaLink="false">be801cf9-0bf0-48ab-932c-85e6864c482e</guid>
+            <pubDate>Fri, 29 Jul 2016 16:35:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/64d9f289-bec5-4068-9e01-d47fe43efc7b.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bff44a0-cd89-4d43-94a8-2f904d99bad7.jpg">]]></description>
             <link>https://thegrid.ai/milan-fine-art-collection/fbac1b7a-9ae4-4bb4-88ac-46b0c43eb4c5/index.html</link>
             <guid isPermaLink="false">fbac1b7a-9ae4-4bb4-88ac-46b0c43eb4c5</guid>
-            <pubDate>Fri, 29 Jul 2016 16:29:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ae5c7b9-ded7-46b9-b199-6eb544104627.png">]]></description>
-            <link>https://thegrid.ai/milan-fine-art-collection/835a822e-4c11-42e6-958b-51ce12adfbf0/index.html</link>
-            <guid isPermaLink="false">835a822e-4c11-42e6-958b-51ce12adfbf0</guid>
             <pubDate>Fri, 29 Jul 2016 16:29:07 GMT</pubDate>
         </item>
     </channel>
