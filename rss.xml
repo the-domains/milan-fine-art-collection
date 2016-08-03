@@ -4,7 +4,7 @@
         <description><![CDATA[Timeless Originals]]></description>
         <link>https://thegrid.ai/milan-fine-art-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 07:52:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 07:52:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/milan-fine-art-collection/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AMONG THE CEDARS]]></title>
@@ -33,6 +33,13 @@
             <link>https://thegrid.ai/milan-fine-art-collection/7cffe561-827d-4838-b704-49199ac14379/index.html</link>
             <guid isPermaLink="false">7cffe561-827d-4838-b704-49199ac14379</guid>
             <pubDate>Wed, 03 Aug 2016 07:51:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/34ec4341-9970-4fa4-968f-a7a0ddb13e18.jpg">]]></description>
+            <link>https://thegrid.ai/milan-fine-art-collection/cac1481f-58a1-4e77-a29b-7af1726b0d09/index.html</link>
+            <guid isPermaLink="false">cac1481f-58a1-4e77-a29b-7af1726b0d09</guid>
+            <pubDate>Wed, 03 Aug 2016 07:51:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New works in progress]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aeef5fd3-d866-43ed-8d5c-db7e3db23ee4.jpg">]]></description>
             <link>https://thegrid.ai/milan-fine-art-collection/10f3e9c2-ece9-4a3c-9d9f-cb2591419e71/index.html</link>
             <guid isPermaLink="false">10f3e9c2-ece9-4a3c-9d9f-cb2591419e71</guid>
-            <pubDate>Fri, 29 Jul 2016 16:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2de46f4-fdbc-4289-af6d-3012e19ca698.jpg">]]></description>
-            <link>https://thegrid.ai/milan-fine-art-collection/24e1b067-4be7-4f30-980f-52d2c8883976/index.html</link>
-            <guid isPermaLink="false">24e1b067-4be7-4f30-980f-52d2c8883976</guid>
             <pubDate>Fri, 29 Jul 2016 16:29:08 GMT</pubDate>
         </item>
     </channel>
