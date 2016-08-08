@@ -1,28 +1,28 @@
-typography_spectrum: 0.038394676987081766
-color:
-  saturation: 0.9888697965070605
-  brandStrength: 0.3420200301334262
-  lightness: 0.45984611054882407
-  brandColors:
-    - '#6C6E58'
-    - '#3E423A'
-    - '#417378'
-    - '#A4CFBE'
-    - '#F4F7D9'
-  rhythmicContrast: 0.2918544171843678
-layout_spectrum: 0.5460944413207471
-name: Milan Fine Art Collection
+title: Timeless Originals
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: Timeless Originals
+color:
+  saturation: 1
+  brandStrength: 0.3420200301334262
+  lightness: 0.697637
+  brandColors:
+    - '#09090B'
+    - '#F0E0C9'
+    - '#256E67'
+    - '#AF181F'
+    - '#AB5426'
+  rhythmicContrast: 0.3539205
+typography_spectrum: 0.8125672
 description: 'Shine Your Art, Change The World'
+layout_spectrum: 0.8684211
+name: Milan Fine Art Collection
