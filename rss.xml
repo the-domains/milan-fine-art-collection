@@ -4,7 +4,7 @@
         <description><![CDATA[Timeless Originals]]></description>
         <link>https://thegrid.ai/milan-fine-art-collection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 01:02:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 05:11:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/milan-fine-art-collection/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AMONG THE CEDARS]]></title>
@@ -12,6 +12,27 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/86f5b836-b667-44d8-9868-cdce09b16b2e.jpg</link>
             <guid isPermaLink="false">67f20f4e-4719-48ac-b4da-e85143665bcd</guid>
             <pubDate>Fri, 29 Jul 2016 16:35:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3902c65-c8a1-4693-86e3-ec26372ced56.jpg">]]></description>
+            <link>https://thegrid.ai/milan-fine-art-collection/7bfd7e2a-8124-4187-a860-0a1498e8bb9a/index.html</link>
+            <guid isPermaLink="false">7bfd7e2a-8124-4187-a860-0a1498e8bb9a</guid>
+            <pubDate>Wed, 24 Aug 2016 05:10:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3902c65-c8a1-4693-86e3-ec26372ced56.jpg">]]></description>
+            <link>https://thegrid.ai/milan-fine-art-collection/478f1252-85e8-4cea-961b-d081c0bb4dab/index.html</link>
+            <guid isPermaLink="false">478f1252-85e8-4cea-961b-d081c0bb4dab</guid>
+            <pubDate>Wed, 24 Aug 2016 05:10:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f119782-3bbc-4f6a-9e22-1dc6c1ffaa14.jpg">]]></description>
+            <link>https://thegrid.ai/milan-fine-art-collection/a97885cc-5334-4514-bf53-6014d329e549/index.html</link>
+            <guid isPermaLink="false">a97885cc-5334-4514-bf53-6014d329e549</guid>
+            <pubDate>Tue, 23 Aug 2016 04:55:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -47,27 +68,6 @@
             <link>https://thegrid.ai/milan-fine-art-collection/c95cad5d-0eb1-48f5-8981-f19b66168f40/index.html</link>
             <guid isPermaLink="false">c95cad5d-0eb1-48f5-8981-f19b66168f40</guid>
             <pubDate>Wed, 03 Aug 2016 07:51:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf6272b9-ca3f-4d25-ad24-2410034f0473.jpg">]]></description>
-            <link>https://thegrid.ai/milan-fine-art-collection/7963b899-d2bf-4c4d-95bc-119cbe2aa4c9/index.html</link>
-            <guid isPermaLink="false">7963b899-d2bf-4c4d-95bc-119cbe2aa4c9</guid>
-            <pubDate>Wed, 03 Aug 2016 07:51:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/13a74e50-d70a-49ff-989d-b860e9e7f74f.jpg">]]></description>
-            <link>https://thegrid.ai/milan-fine-art-collection/7cffe561-827d-4838-b704-49199ac14379/index.html</link>
-            <guid isPermaLink="false">7cffe561-827d-4838-b704-49199ac14379</guid>
-            <pubDate>Wed, 03 Aug 2016 07:51:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/34ec4341-9970-4fa4-968f-a7a0ddb13e18.jpg">]]></description>
-            <link>https://thegrid.ai/milan-fine-art-collection/cac1481f-58a1-4e77-a29b-7af1726b0d09/index.html</link>
-            <guid isPermaLink="false">cac1481f-58a1-4e77-a29b-7af1726b0d09</guid>
-            <pubDate>Wed, 03 Aug 2016 07:51:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
