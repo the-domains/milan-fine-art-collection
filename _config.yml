@@ -5,15 +5,15 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 1
-  brandStrength: 0.3420200301334262
+  brandStrength: 0.9274973
   lightness: 0.697637
   brandColors:
     - '#09090B'
@@ -21,8 +21,8 @@ color:
     - '#256E67'
     - '#AF181F'
     - '#AB5426'
-  rhythmicContrast: 0.3539205
-typography_spectrum: 0.8125672
+  rhythmicContrast: 0.7309344
+typography_spectrum: 0.1358754
 description: 'Shine Your Art, Change The World'
-layout_spectrum: 0.8684211
+layout_spectrum: 0.4613319
 name: Milan Fine Art Collection
